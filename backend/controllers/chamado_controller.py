@@ -41,7 +41,7 @@ def fallback_smart_triage(descricao: str):
     palavras_critica = [
         "offline", "fora do ar", "caiu", "parou tudo", "ninguém consegue", "ninguem consegue",
         "setor inteiro", "empresa toda", "vendas", "faturamento", "produção parada", "producao parada",
-        "servidor", "ataque", "vírus", "virus", "ransomware", "emergência", "emergencia", "crítico", "critico", "sem internet"
+        "servidor", "ataque", "vírus", "virus", "ransomware", "emergência", "emergencia", "crítico", "critico", "sem internet", "fogo", "chamas"
     ]
     palavras_alta = [
         "parou de funcionar", "não liga", "nao liga", "bloquead", "urgente", "não consigo trabalhar",
